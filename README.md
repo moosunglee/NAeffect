@@ -1,7 +1,7 @@
-# Subcodes for NA effect paper (https://arxiv.org/abs/2411.12017)
+## Subcodes for NA effect paper (https://arxiv.org/abs/2411.12017)
 Moosung Lee, Universitt of Stuttgart, 2024.11.21
 
-All codes were tested in >= MATLAB2023a.
+All codes were tested in >= MATLAB 2023a.
 Press F5 to run the codes.
 
 
